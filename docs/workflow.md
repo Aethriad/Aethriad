@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Aethriad/Aethriad/blob/main/img/headers/workflow.png" width="100%" />
+</p>
+
+
 # 🛠️ Aethriad Project Workflow
 
 This document outlines the general workflow we follow at **Aethriad** to plan, design, build, deploy and maintain our projects — from the first idea to long-term support.
