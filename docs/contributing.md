@@ -2,7 +2,7 @@
 
 This guide outlines how we work together to keep things clean, consistent, and collaborative. Let's build something stellar. 
 
----
+
 
 ## ✍️ Commit Style Guide
 
@@ -22,7 +22,6 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) stand
 > Example:  
 > `feat: add dark mode toggle to header`
 
----
 
 ## 🧱 Naming Conventions
 
@@ -37,9 +36,8 @@ We use consistent naming to keep code readable, scalable, and easy to refactor.
 | Hooks            | `useCamelCase`              | `useAuth.ts`, `useDarkMode.ts`|
 | Utility files    | `camelCase`                 | `formatDate.ts`, `getUser.ts` |
 | API routes       | `kebab-case`                | `create-user/route.ts`        |
-| Context files    | `PascalCase`                | `AuthContext.tsx`             |
 
----
+
 
 ## 🌿 Branching Strategy
 
@@ -53,7 +51,7 @@ We follow a simplified GitFlow model to manage changes and releases efficiently:
 
 > All feature and fix branches should be merged into `dev` via pull requests. Once `dev` is stable and ready for release, it gets merged into `main`.
 
----
+
 
 ## 📦 Versioning
 
@@ -73,7 +71,7 @@ The type of commit defines the impact on the version:
 | `refactor`  | PATCH (unless breaking) |
 | `BREAKING CHANGE` (any type) | MAJOR |
 
----
+
 
 By following these guidelines, we ensure our codebase stays healthy, scalable, and accessible for everyone. ✨
 
