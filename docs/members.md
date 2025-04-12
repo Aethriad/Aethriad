@@ -1,6 +1,10 @@
-# 🧩 Aethriad Members
+<p align="center">
+  <img src="https://github.com/Aethriad/Aethriad/blob/main/img/headers/team.png" width="100%" />
+</p>
 
-This is Us, the core team behind Aethriad.
+<p align="center">
+  This is Us, the core team behind Aethriad✨.
+</p>
 
 <div align="center">
 
