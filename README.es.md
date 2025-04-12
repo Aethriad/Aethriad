@@ -101,4 +101,4 @@ Nuestros editores de código por defecto. Cursor incluye soporte de IA para acel
 
 > Aceptamos contribuciones de todos los niveles de experiencia.
 
-Gracias por ayudarnos a construir algo estelar 🌌
+Winning is a consequence ✨
