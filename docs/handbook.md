@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Aethriad/Aethriad/blob/main/img/headers/handbook.png" width="100%" />
+</p>
+
 # 🤝 Contributing Guide
 
 This guide outlines how we work together to keep things clean, consistent, and collaborative. Let's build something stellar. 
