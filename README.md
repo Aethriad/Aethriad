@@ -8,9 +8,9 @@ Welcome to the official tech stack of **Aethriad** — the tools, libraries, and
 
 If you're contributing or joining the team, this document will help you get familiar with our ecosystem and development standards.
 
----
-
-## 📦 Badges
+<p align="right">
+  🇪🇸 <a href="https://github.com/Aethriad/Aethriad/blob/main/README.es.md">Leer en Español</a>
+</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -25,7 +25,7 @@ If you're contributing or joining the team, this document will help you get fami
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
----
+
 
 ## ⚙️ Frameworks
 
@@ -99,4 +99,4 @@ Code editors of choice. Cursor offers enhanced features with built-in AI coding 
 
 > We welcome contributors of all experience levels.
 
-Thanks for helping us build something stellar 🌌
+Winning is a consequence ✨
