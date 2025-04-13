@@ -13,7 +13,7 @@
     <td align="center">
       <img src="https://github.com/Aethriad/Aethriad/blob/main/img/pfp/mck.png" width="150" height="150" style="border-radius: 50%; transition: filter 0.3s;" onmouseover="this.style.filter='brightness(80%)'" onmouseout="this.style.filter='brightness(100%)'" />
       <br />
-      <strong><a href="https://github.com/user1">mck</a></strong>
+      <strong><a href="https://github.com/mck21">mck</a></strong>
     </td>
     <td align="center">
       <img src="https://github.com/Aethriad/Aethriad/blob/main/img/pfp/franefun.png" width="150" height="150" style="border-radius: 50%; transition: filter 0.3s;" onmouseover="this.style.filter='brightness(80%)'" onmouseout="this.style.filter='brightness(100%)'" />
